@@ -66,7 +66,7 @@ session_start();
     }
 
     .jumbotron {
-      background-image: url("https://edindia.org/wp-content/uploads/2023/02/fxg.jpg");
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGAubwdYvnku8XT1E6iTRRphEo7yz_vPRKN79bXfRcfFw94iU38zVigvzqDpGMQdWquw&usqp=CAU");
 
       color: black;
       opacity: 1.0;
